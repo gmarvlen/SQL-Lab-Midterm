@@ -76,7 +76,7 @@ Sample Question Types:
 
 **Student Submission for Midterm**  
 Course: CS 457L  
-Institution: [Your School Name Here]  
+Institution: [San Francisco Bay University]  
 Term: Spring 2024
 
 ---
